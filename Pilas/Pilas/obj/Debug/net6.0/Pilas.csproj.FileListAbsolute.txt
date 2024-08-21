@@ -1,0 +1,15 @@
+C:\Users\alumno\Desktop\Pilas\Pilas\Pilas\obj\Debug\net6.0\Pilas.csproj.AssemblyReference.cache
+C:\Users\alumno\Desktop\Pilas\Pilas\Pilas\obj\Debug\net6.0\Pilas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumno\Desktop\Pilas\Pilas\Pilas\obj\Debug\net6.0\Pilas.AssemblyInfoInputs.cache
+C:\Users\alumno\Desktop\Pilas\Pilas\Pilas\obj\Debug\net6.0\Pilas.AssemblyInfo.cs
+C:\Users\alumno\Desktop\Pilas\Pilas\Pilas\obj\Debug\net6.0\Pilas.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Pilas\Pilas\Pilas\bin\Debug\net6.0\Pilas.exe
+C:\Users\alumno\Desktop\Pilas\Pilas\Pilas\bin\Debug\net6.0\Pilas.deps.json
+C:\Users\alumno\Desktop\Pilas\Pilas\Pilas\bin\Debug\net6.0\Pilas.runtimeconfig.json
+C:\Users\alumno\Desktop\Pilas\Pilas\Pilas\bin\Debug\net6.0\Pilas.dll
+C:\Users\alumno\Desktop\Pilas\Pilas\Pilas\bin\Debug\net6.0\Pilas.pdb
+C:\Users\alumno\Desktop\Pilas\Pilas\Pilas\obj\Debug\net6.0\Pilas.dll
+C:\Users\alumno\Desktop\Pilas\Pilas\Pilas\obj\Debug\net6.0\refint\Pilas.dll
+C:\Users\alumno\Desktop\Pilas\Pilas\Pilas\obj\Debug\net6.0\Pilas.pdb
+C:\Users\alumno\Desktop\Pilas\Pilas\Pilas\obj\Debug\net6.0\Pilas.genruntimeconfig.cache
+C:\Users\alumno\Desktop\Pilas\Pilas\Pilas\obj\Debug\net6.0\ref\Pilas.dll
